@@ -1,5 +1,4 @@
 # Dailylife-tracker
-# Daily Life Tracker 📊
 
 A **Daily Life Tracker** built with Python to record, analyze, and visualize daily habits and activities. The project uses **NumPy, Pandas, Matplotlib, Seaborn, Plotly, and Streamlit** to turn daily-life data into meaningful insights through an interactive dashboard.
 
